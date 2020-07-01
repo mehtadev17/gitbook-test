@@ -23,7 +23,7 @@ echo 'You got to trust me on this, I saved the world'
 
 {% page-ref page="test-page-1.md" %}
 
-{% page-ref page="this-is-html-test-embed.md" %}
+{% page-ref page="test-page-2.md" %}
 
 
 
